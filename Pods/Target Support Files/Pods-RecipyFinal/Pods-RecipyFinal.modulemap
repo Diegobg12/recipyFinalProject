@@ -1,0 +1,6 @@
+module Pods_RecipyFinal {
+  umbrella header "Pods-RecipyFinal-umbrella.h"
+
+  export *
+  module * { export * }
+}
